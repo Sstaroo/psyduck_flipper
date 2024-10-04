@@ -44,3 +44,8 @@ You can install these packages using pip:
 ```bash
 pip install pyglet PyOpenGL trimesh pymunk numpy
 ```
+
+## Demo
+
+You can watch a short video showcasing the game in action at the following link: [Watch the Gameplay Video](https://youtu.be/tY0qFPkMRYc).
+
